@@ -2,7 +2,8 @@
 # Função é uma estrutura de dados, serve tambem para 
 repetir uma informação sem precisar copiar e colar.
 
-# Funções ajudam a reaproveitar/reutilizar o codigo quantas vezes quisermos, fica registrado em memória.
+# Funções ajudam a reaproveitar/reutilizar o codigo quantas vezes quisermos, 
+fica registrado em memória.
 
 # Funções Agrupa codigo, serve para agrupamento de codigos
 */

@@ -9,4 +9,5 @@ while (i < 10) {
   console.log(i)
   i++;
 }
-// então enquanto (while) i for menor que 10 incremente 1 numero no mesmo, com esse controle de incrementar, a aplicação nao fica em loop infinito
+/* então enquanto (while) i for menor que 10 incremente 1 numero no mesmo, 
+com esse controle de incrementar, a aplicação nao fica em loop infinito */

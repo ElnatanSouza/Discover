@@ -9,7 +9,8 @@
 // Parâmetros da função (parameters)
 const sum = function (number1, number2) {
   let total = (number1 + number2)
-  return total // Sem o return a função não é executada fora do escopo. A função precisa retornar algo
+  return total /* Sem o return a função não é executada fora do escopo. A função 
+  precisa retornar algo */
 }
 
 // Arguments - argumentos

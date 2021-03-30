@@ -9,7 +9,8 @@ function sayMyName() {
 }
 
 /*
-  Quando é feito uma função com alguma expressão (var, let ou const) ela não sobre uma elevação
+  Quando é feito uma função com alguma expressão (var, let ou const) ela 
+  não sofre uma elevação
 */
 // Ex:
 digaMeuNome()

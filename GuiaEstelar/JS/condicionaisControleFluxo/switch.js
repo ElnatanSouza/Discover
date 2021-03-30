@@ -1,7 +1,8 @@
 /*
   switch
 
-    A condicional switch se assemelha muito ao if e else, porém a estrutura é outra.
+    A condicional switch se assemelha muito ao if e else, porém a estrutura é 
+    outra.
 
 
     Ex:
@@ -24,7 +25,9 @@ switch (expression) {
     break
 }
 
-/* O break é opcional, porém, se não usarmos o mesmo, a condição passa para o proximo case, então o break mostra que a expression foi encontrada, então pare o algoritimo 
+/* O break é opcional, porém, se não usarmos o mesmo, a condição passa para o 
+proximo case, então o break mostra que a expression foi encontrada, 
+então pare o algoritimo 
 
 Outro Ex:
 */

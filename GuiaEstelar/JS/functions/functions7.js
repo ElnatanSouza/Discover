@@ -6,7 +6,8 @@
     * this keyword
 */
 
-// É uma boa pratica começar uma função construtora com a primeira letra maiuscula
+/* É uma boa pratica começar uma função construtora com a primeira letra 
+maiuscula */
 function Person(name) {
   //this é uma palavra chave
   this.name = name

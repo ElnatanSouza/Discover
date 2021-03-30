@@ -1,6 +1,7 @@
 /* 
 FALSY
-  Quando um valor é considerado falso em contextos onde um  booleano é obreigatório (condicionais e loops)
+  Quando um valor é considerado falso em contextos onde um  booleano é 
+  obrigatório (condicionais e loops)
 
   false
   0
@@ -15,7 +16,8 @@ console.log( 0 ? "verdadeiro" : 'falso' )
 
 /*
 TRUTHY
-  Quando o valor é considerado true em contextos onde booleano é obrigatorio (condicionais e loops)
+  Quando o valor é considerado true em contextos onde booleano é 
+  obrigatorio (condicionais e loops)
 
   true
   {}

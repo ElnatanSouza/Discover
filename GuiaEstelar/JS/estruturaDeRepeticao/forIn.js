@@ -16,4 +16,5 @@ for (let property in person) {
   console.log(person[property])
 }
 
-// Então acima temos o for...in pegando as propriedades de um objeto e atribuindo as mesmas na variavel property
+/* Então acima temos o for...in pegando as propriedades de um objeto e 
+    atribuindo as mesmas na variavel property */
